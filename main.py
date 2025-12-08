@@ -1,8 +1,8 @@
 def main():
     print("我要成为jj糕✋")
-    print("mian 1")
-    print("mian 2")
-    print("mian 3")
+    print("main 1")
+    print("main 2")
+    print("main 3")
 
 
 if __name__ == "__main__":
