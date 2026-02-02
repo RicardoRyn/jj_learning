@@ -1,9 +1,9 @@
 def main():
-    print("main 1")
+    print("dev 1")
     print("2")
-    print("main 3")
+    print("dev 3")
     print("4")
-    print("main 5")
+    print("dev 5")
 
 
 if __name__ == "__main__":
