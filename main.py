@@ -3,7 +3,8 @@ def main():
     print("2")
     print("dev 3")
     print("4")
-    print("dev 5")
+    print("main 5")
+    print("这是main分支")
 
 
 if __name__ == "__main__":
