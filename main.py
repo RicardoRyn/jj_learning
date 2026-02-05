@@ -1,12 +1,10 @@
 def main():
-    print("dev 1")
+    print("base 1")
     print("2")
-    print("dev 3")
+    print("base 3")
     print("4")
-    print("main 5")
-    print("这是main分支")
+    print("base 5")
 
 
 if __name__ == "__main__":
     main()
-    print("dev完成")
