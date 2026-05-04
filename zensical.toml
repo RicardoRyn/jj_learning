@@ -13,6 +13,7 @@ nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
   { "Installation" = "installation.md" },
+  { "Changelog" = "changelog.md" },
 ]
 
 [project.theme]
