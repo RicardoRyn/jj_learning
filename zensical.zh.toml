@@ -2,9 +2,11 @@
 site_name = "Documentation"
 site_description = "A new project generated from the default template project."
 site_author = "Ricardo Ryn"
+
 site_url = "https://ricardoryn.github.io/jj_learning/"
-docs_dir = "docs/zh"
 site_dir = "site/zh"
+docs_dir = "docs/zh"
+
 copyright = """
 Copyright &copy; 2026 The authors
 """
@@ -47,8 +49,8 @@ toggle.name = "Switch to light mode"
 
 [project.extra]
 alternate = [
-    { name = "English", link = "/jj_learning/", lang = "en" },
-    { name = "Chinese", link = "/jj_learning/zh/", lang = "zh" }
+    { name = "English", link = "/", lang = "en" },
+    { name = "中文", link = "/zh/", lang = "zh" }
 ]
 
 [project.markdown_extensions.abbr]
