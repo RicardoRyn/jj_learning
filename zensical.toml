@@ -4,7 +4,6 @@ site_description = "A new project generated from the default template project."
 site_author = "Ricardo Ryn"
 
 site_url = "https://ricardoryn.github.io/jj_learning/"
-site_dir = "site/en"
 docs_dir = "docs/en"
 
 copyright = """
@@ -13,7 +12,7 @@ Copyright &copy; 2026 The authors
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
-  { "Doc 1" = "file_1.md" },
+  { "Installation" = "installation.md" },
 ]
 
 [project.theme]
@@ -49,8 +48,8 @@ toggle.name = "Switch to light mode"
 
 [project.extra]
 alternate = [
-    { name = "English", link = "/", lang = "en" },
-    { name = "中文", link = "/zh/", lang = "zh" }
+    { name = "English", link = "/jj_learning/", lang = "en" },
+    { name = "中文", link = "/jj_learning/zh/", lang = "zh" }
 ]
 
 [project.markdown_extensions.abbr]

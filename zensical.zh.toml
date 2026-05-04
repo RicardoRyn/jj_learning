@@ -13,7 +13,7 @@ Copyright &copy; 2026 The authors
 nav = [
   { "快速开始" = "index.md" },
   { "Markdown 五分钟" = "markdown.md" },
-  { "文档 1" = "file_1.md" },
+  { "安装" = "installation.md" },
 ]
 
 [project.theme]
@@ -49,8 +49,8 @@ toggle.name = "Switch to light mode"
 
 [project.extra]
 alternate = [
-    { name = "English", link = "/", lang = "en" },
-    { name = "中文", link = "/zh/", lang = "zh" }
+    { name = "English", link = "/jj_learning/", lang = "en" },
+    { name = "中文", link = "/jj_learning/zh/", lang = "zh" }
 ]
 
 [project.markdown_extensions.abbr]
