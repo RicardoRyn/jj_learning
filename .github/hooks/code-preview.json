@@ -1,0 +1,1 @@
+{"version":1,"hooks":{"postToolUse":[{"timeoutSec":30,"type":"command","bash":"'C:/Users/RicardoRyn/AppData/Local/nvim-data/lazy/code-preview.nvim/backends/copilot/code-close-diff.sh'"}],"preToolUse":[{"timeoutSec":30,"type":"command","bash":"'C:/Users/RicardoRyn/AppData/Local/nvim-data/lazy/code-preview.nvim/backends/copilot/code-preview-diff.sh'"}]}}
